@@ -1,0 +1,13 @@
+Package: cdateEthio
+Title: Convert date from Ethiopian calendar to Gregorian.
+Version: 0.0.0.9000
+Authors@R: 
+    person("Dawit", "Jember", , "first.last@example.com", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: The function convert day, month, and year from the Ethiopian calendar to
+   Gregorian. It allows researchers working with a large data set to easily 
+   convert date. 
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
